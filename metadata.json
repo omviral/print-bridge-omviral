@@ -1,0 +1,6 @@
+{
+  "name": "Flutter Bluetooth Thermal Print Bridge Generator",
+  "description": "Interactive code generator, configuration guide, and simulator for building an Android PDF-to-Bluetooth-Thermal-Printer Print Bridge in Flutter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
